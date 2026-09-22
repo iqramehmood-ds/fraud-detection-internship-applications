@@ -37,23 +37,28 @@ The combined system flagged 207 of 1,127 applications (18.4%), catching 170 of t
 
 **Elbow method (choosing k for K-Means)**
 
-![Elbow method](plots/plot_elbow.png)
+<img width="1082" height="677" alt="image" src="https://github.com/user-attachments/assets/7def9590-132e-41c5-b14e-835dce6109fe" />
+
 
 **Flagged vs normal applications (PCA view)**
 
-![PCA scatter of alerts](plots/plot_pca_alerts.png)
+<img width="799" height="622" alt="image" src="https://github.com/user-attachments/assets/58410eb3-0649-442c-a9b1-dcb905069974" />
+
 
 **Isolation Forest anomaly score distribution**
 
-![Anomaly score distribution](plots/plot_iso_score_dist.png)
+
+<img width="1199" height="754" alt="image" src="https://github.com/user-attachments/assets/9e33df0a-a4ed-46c3-a58c-1f8872060a17" />
 
 **Most common reasons an alert was raised**
 
-![Alert reasons](plots/plot_alert_reasons.png)
+<img width="1059" height="731" alt="image" src="https://github.com/user-attachments/assets/5ee12bde-bda9-4d86-ae0d-81ee5a364cb7" />
+
 
 **Detection rate by injected fraud type**
 
-![Detection by fraud type](plots/plot_detection_by_type.png)
+<img width="974" height="729" alt="image" src="https://github.com/user-attachments/assets/3fc532c4-aa6b-411c-bc04-e4ed9fc1e83d" />
+
 
 ## Files
 
